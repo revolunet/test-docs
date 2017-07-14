@@ -1,4 +1,4 @@
 # Hello world
 
-link to kikoo
+[link to kikoo](/kikoo.md)
 
